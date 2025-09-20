@@ -38,7 +38,7 @@ Days of Week Table
 
 ### 🖼️ Dashboard Snapshots
 
-![Presence Insights Dashboard](https://github.com/Adnaan034/Presence-Insights/blob/4dec62a6eeb4aad4462971ed8eaef37b689d13da/Screenshot%20(76).png))
+![Presence Insights Dashboard](https://github.com/Adnaan034/Presence-Insights/blob/4dec62a6eeb4aad4462971ed8eaef37b689d13da/Screenshot%20(76).png)
 
 ### 🛠️ Skills & Tools
 
